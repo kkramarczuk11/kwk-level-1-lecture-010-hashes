@@ -4,7 +4,7 @@
 
 Students will learn about Ruby hashes.
 
-## SWBATS
+## SWBAT
 
 + HASHES - create
 + HASHES - populate
@@ -59,6 +59,9 @@ items
 # => {"Dazzling Coat" => 15.0, "Aubergine Gloves" => 200.0}
 ```
 
+#### CFU
+
+
 ## Growing a Hash
 
 **NOTE:** now is a great time to tie back in what we recently learned with the `array.each` method and do a live code-along with the students.
@@ -79,6 +82,15 @@ end
 
 # => {"Outrageous Shoes"=>20.0, "Beguiling Socks"=>15.99, "Chrome Laces"=>2.5}
 ```
+
+#### CFU
+
+Show with a count of fingers how prepared you feel to move onto the growing a hash lab.
+1 Finger = I don't understand at all
+2 Fingers = I need to clarify some things
+3 Fingers = I just need to read over things again and then I'm good
+4 Fingers = I can do this on my own but may have some questions during the lab
+5 Fingers = I'm great and understand!
 
 **MINI LAB WITH HASHES. CREATING, GROWING, ACCESSING**
 
@@ -137,5 +149,8 @@ end
 # Item: Aubergine Gloves
 # Price: 200.0
 ```
+## CFU
+
+1) How are keys and values useful?
 
 **LAB ON HASHES**
