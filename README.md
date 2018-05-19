@@ -61,6 +61,7 @@ items
 
 #### CFU
 
+1) What is the general format of a hash?
 
 ## Growing a Hash
 
@@ -122,6 +123,14 @@ item_names = items.keys # returns an array of all item names
 prices = items.values # returns an array of all item prices
 # => [15.0, 20.0, 15.99, 2.50, 200.0]
 ```
+#### CFU
+
+1) How are keys and values related?
+
+Quick Activity: You are given a notecard with either a key or value on it. 
+1) Determine if you are holding a key or value according to the code listed on the board. 
+2) Clarify if you will be a code input or output. 
+3) Search for your partner and create a "puts" phrase that would include your key and value.
 
 #### Iterating Over Keys and Values Simultaneously
 
@@ -149,8 +158,8 @@ end
 # Item: Aubergine Gloves
 # Price: 200.0
 ```
-## CFU
-
-1) How are keys and values useful?
 
 **LAB ON HASHES**
+
+#### I.S.
+Create a venn diagram with your classmates to compare and contrast arrays and hashes. Use this venn diagram to help you answer Kahoot! questions about hashes and arrays. Think about the technical differences, arrangement of data, and output of hashes and arrays.
